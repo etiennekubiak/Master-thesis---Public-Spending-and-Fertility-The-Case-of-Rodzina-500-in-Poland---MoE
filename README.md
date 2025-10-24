@@ -15,5 +15,8 @@ The study employs rigorous econometric methods, including Synthetic Control, Dif
 - **Difference-in-Differences (DiD)**: Compares the changes in fertility rates before and after the policy between treated and control groups.  
 - **Event Study**: Examines the dynamic effects of the policy over time.
 
+## Main Results
+The analysis reveals temporary (short-term) effects on fertility, with an observable increase in birth rates one year after the policy’s introduction, followed by a reversion to pre-policy trends. No substantial quantum effect—that is, no sustained long-term increase in fertility—was detected. These findings are consistent with existing literature on family allowance policies, which often produce short-lived demographic responses rather than structural changes in fertility behavior
+
 ## Contact
 For questions or comments, feel free to reach me at: etienne.kubiak@ens-paris-saclay.fr
